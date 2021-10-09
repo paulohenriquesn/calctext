@@ -4,7 +4,7 @@ A basic minimalist Calculator based on Soulver ✖️
 All you have to do it's clone this repository and build it with yarn or npm.
 
 <p align="center">
-  <img src="demo.png" width="500px">
+  <img src="demo-calctext.png" width="500px">
 </p>
 
 ## Build
