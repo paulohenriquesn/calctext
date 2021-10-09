@@ -7,6 +7,8 @@ All you have to do it's clone this repository and build it with yarn or npm.
   <img src="demo.png">
 </p>
 
+## Build
+
 ```javascript
 yarn build
 ```
@@ -15,6 +17,7 @@ or
 npm build
 ```
 
+## Dev
 If you want to upgrade or fix something you can open an issue or clone this repository and call yarn dev to try to fix by yourself.
 
 
