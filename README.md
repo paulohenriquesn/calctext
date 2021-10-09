@@ -1,5 +1,5 @@
 # calctext
-A basic minimalist Calculator based on Soulver ✖️
+A basic minimalist calculator text type based on Soulver ✖️
 
 All you have to do it's clone this repository and build it with yarn or npm.
 
